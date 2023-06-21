@@ -45,4 +45,4 @@ https://finalproject-667eb.web.app/
 
 
 ## Deployment
-The application is deployed using Firebase. You can access the live demo You can try the live demo of the application [here](https://finalproject-667eb.web.app/).
+The application is deployed using Firebase. You can try the live demo of the application [here](https://finalproject-667eb.web.app/).
