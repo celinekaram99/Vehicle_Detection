@@ -150,4 +150,21 @@ video {
   margin-right: -20vh;
   justify-content: space-evenly; 
 }
+  .navbar-collapse.collapse {
+    display: none !important;
+  }
+  .navbar-toggler {
+    display: block !important;
+  }
+  .navbar-nav .nav-link {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .navbar-nav {
+    flex-direction: column;
+  }
+  .navbar-nav .nav-item {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
 }
